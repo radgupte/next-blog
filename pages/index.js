@@ -26,10 +26,6 @@ export default function Home() {
           </a>
         </p>
         <p>
-          You can also contact me via{' '}
-          <a href="rgupte11@gmail.com">my email address</a>
-        </p>
-        <p>
           (I created this website using Next.js - you can also build a site like
           this with the help of{' '}
           <a href="https://nextjs.org/learn">this Next.js tutorial</a>.)
